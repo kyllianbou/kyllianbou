@@ -1,6 +1,6 @@
 <h1>Hi and welcome to my github👋</h1>
 
-<p>Let me introduce myself, my name is kylian, I live in valenciennes in france and I am currently a professional training intern, I have been coding for about 2 years, it is a real passion before I want to make it my job. other hobby:</p>
+<p>Let me introduce myself, my name is kylian, I live in valenciennes in france and I am currently a professional training intern, I have been coding for about 2 years, it is a real passion before I want to make it my job. other hobies:</p>
 <ul>
 
 <li>-sport (bodybuilding and running are essential for me)</li>
